@@ -2,7 +2,7 @@
 
 In this project, the objective was to develop an animated map that displays city buy locaitons in real-time using data from a public API.  In this project, google maps was used. 
 
-How to Run: Select the index.html file and drag it into your browsers website bar. When it loads, you will see two eyes that follow the movement of your mouse.
+How to Run: Select the index.html file and drag it into your browsers website bar. When it loads, you will see blue and red markers indicating the real time bus locations on the map.  The locaitons are updated every 15 secounds. 
 
 Roadmap of future improvements: Add more styling to markers, and map to highlight the bus routes. 
 
